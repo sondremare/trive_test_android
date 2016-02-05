@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_id": "trive-e09c5",
+    "project_number": "1015977660946",
+    "name": "Trive"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015977660946:android:5f6211e497fb73f6",
+        "client_id": "android:com.edtech.trive.trive",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.edtech.trive.trive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
